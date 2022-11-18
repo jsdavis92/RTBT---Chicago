@@ -1,0 +1,33 @@
+.map {
+    align-items: center;
+}
+
+
+#myButton{
+    
+margin-top: 50px;
+margin-left: 50px;
+font-size:2em;
+background-color:hotpink;
+color:white;
+border-radius: 10px;
+border: 2px solid black;
+box-shadow: 0 9px #999;
+z-index: 20;
+    
+}
+
+#myButton:hover{
+    font-size:2em;
+    background-color: deeppink;
+    border: 2px solid black;
+      box-shadow: 0 9px #999;
+    }
+
+    #myButton:active{
+
+        background-color: hotpink;
+        box-shadow: 0 5px #666;
+        transform: translateY(4px);
+
+    }
