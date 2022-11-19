@@ -16,3 +16,6 @@ Future improvement to Nashville Bus Tracker app include include the following;
  - Visual Route Progress Tracker
 
 <a href="https://jsdavis92.github.io/Real-Time-Bus-Nashville/">Run Nashville Bus Tracker</a>
+
+
+[LICENSE-MIT.txt](https://github.com/jsdavis92/Real-Time-Bus-Nashville/files/10047360/LICENSE-MIT.txt)
