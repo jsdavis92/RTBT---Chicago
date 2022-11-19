@@ -8,13 +8,11 @@ Happy Hacking!
 
 Future improvement to Nashville Bus Tracker app include include the following;
 
-<ul>
-  Temperature Data
-  Clock
-  Total Route Length in Distance Data
-  Total Route Length in Time Data
-  Visual Route Progress Tracker
 
-  </ul>
+ - Temperature Data
+ - Clock
+ - Total Route Length in Distance Data
+ - Total Route Length in Time Data
+ - Visual Route Progress Tracker
 
 <a href="https://jsdavis92.github.io/Real-Time-Bus-Nashville/">Run Nashville Bus Tracker</a>
