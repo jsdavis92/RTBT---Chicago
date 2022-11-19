@@ -6,4 +6,15 @@ If you'd like to run this natively on your own machine instead of from Github, p
 Happy Hacking!
 
 
+Future improvement to Nashville Bus Tracker app include include the following;
+<ol>
+  Temperature Data
+  Clock
+  Total Route Length in Distance Data
+  Total Route Length in Time Data
+  Visual Route Progress Tracker
+  </ol>
+  
+
+
 <a href="https://jsdavis92.github.io/Real-Time-Bus-Nashville/">Run Nashville Bus Tracker</a>
